@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Junyue Wang</title>
+    <link>/tags/statistics/</link>
+      <atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide association studies -- identify positions of causal polymorphisms(loci)</title>
+      <link>/project/internal-project/genetics/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/genetics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;
+Apply GWAS to discern position of as many causal polymorphisms, with covariate analysis using Principal Component Analysis and Bayesian Inference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  GWAS, Quantitative Genetics and Genomics, PCA, Bayesian Inference&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>California Camp Fire</title>
+      <link>/project/internal-project/california-camp-fire/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/california-camp-fire/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Retrieve TerraClimate precipitation data in California from 1950-2020 for analysis of climate change with respect to frequent camp fire. Use Statistical Test (Mann-Whitney Test / Spearman’s rho / Kolmogorov-Smirov test) to check mean change over time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Environment, Natural Reservation, Data Analysis, Time Series&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inventory Stochastic</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series in Domestic Natural Gas Consumption</title>
+      <link>/project/internal-project/time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/time-series/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Apache PySpark, Natural Language Processing, Machine Learning, HashMap&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

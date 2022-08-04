@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Junyue Wang</title>
+    <link>/tags/machine-learning/</link>
+      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>NLP in Financial Market</title>
+      <link>/project/internal-project/nlp-in-financial-market/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/nlp-in-financial-market/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Natural Language Processing, Financial Market, Sentiment, Time Series, Machine Learning, Key Factors&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter Big Data Analytics</title>
+      <link>/project/internal-project/bigdata/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/bigdata/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using Apache Spark and Map-reduce in data framework dealing with large text data for classificaition needs. Multi-class classification on twitter users of tweets attitude towards racisim or hate speech.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Apache PySpark, Natural Language Processing, Machine Learning, HashMap&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Abbreviation of MMPI-I Chinese Version Based on the Machine Learning Predictions</title>
+      <link>/project/internal-project/mmpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/mmpi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the rapid development of society, the stress and pressure of human beings have leaped and are now considered a matter of continuing concern. Thus, personalities and mental status assessments are gradually assimilated into various aspects of our daily life including professional achievements, job searches, and most importantly, healthcare. In the meantime, the applications of machine learning algorithms on psychological topics, such as bipolar disorder diagnosis, schizophrenia diagnosis, autism diagnosis etc., have become a significant field of research.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  MMPI-I Chinese Version, Machine Learning, Abbreviated Scale, Psychological Examination&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
